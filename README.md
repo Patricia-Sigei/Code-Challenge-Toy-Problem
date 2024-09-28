@@ -50,7 +50,7 @@ To get started with Toy Problem, follow these steps
  -Navigate to the directory
 
  * cd Code-Challenge-Toy-Problem
--Open VS Code
+ -Open VS Code
  * Run code . on terminal to open the directory in Visual Studio Code.
 ## Technologies Used
 -Javascript 
