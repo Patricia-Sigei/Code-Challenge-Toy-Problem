@@ -56,7 +56,8 @@ To get started with Toy Problem, follow these steps
  * Run code . on terminal to open the directory in Visual Studio Code.
 
 ## Technologies Used
--Javascript 
+-Javascript
+
 -Github
 
 ## Support and contact details
