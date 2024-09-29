@@ -25,6 +25,7 @@ This program prompts the user to input student marks and outputs the correspondi
   - If speed is less than 70, it prints "Ok".
   - For every 5 km/h over the limit, it gives 1 demerit point.
   - If the total demerit points exceed 12, it prints "License suspended".
+  
 -File: `challenge2.js`
 
 #### Challenge 3: Net Salary Calculator
@@ -35,6 +36,7 @@ This program prompts the user to input student marks and outputs the correspondi
   - PAYE tax
   - Net salary
 - File: `challenge3.js`
+
 -Taxation Information: The tax rates used for this calculation are based on KRA guidelines.
 
 ## Installation 
