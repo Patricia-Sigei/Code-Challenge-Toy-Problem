@@ -11,7 +11,7 @@ function calculatePayee(basicSalary) {
 
 // Function to calculate NHIF deduction based on gross salary
 function calculateNhif(grossSalary) {
-  let nhif; 
+  let nhif;
   if (grossSalary <= 5999) {
     nhif = 150;
   } else if (grossSalary <= 7999) {
@@ -72,7 +72,7 @@ function calculateNetSalary(basicSalary, benefits) {
   console.log("NSSF Deduction: " + nssf);
   console.log("Net Salary: " + netSalary);
 
-  return netSalary; 
+  return netSalary;
 }
 
 // Call the function with sample data
